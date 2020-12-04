@@ -9,10 +9,10 @@ document.body.innerText.trim().split("\n\n").filter(r=>r.split(/[ \n]+/).length=
 		    (c[0]=="iyr"&&c[1]>=2010&&c[1]<=2020)||
 		    (c[0]=="eyr"&&c[1]>=2020&&c[1]<=2030)||
 		    (c[0]=="hgt"&&
-		     (c[1].substr(-2)=="cm"&&c[1].slice(0,-2)>=150&&c[1].slice(0,-2)<=193)||
-		     (c[1].substr(-2)=="in"&&c[1].slice(0,-2)>=59&&c[1].slice(0,-2)<=76))||
+		     ((c[1].substr(-2)=="cm"&&c[1].slice(0,-2)>=150&&c[1].slice(0,-2)<=193)||
+		      (c[1].substr(-2)=="in"&&c[1].slice(0,-2)>=59&&c[1].slice(0,-2)<=76)))||
 		    (c[0]=="hcl"&&/^#[0-9a-f]{6}$/.test(c[1]))||
 		    (c[0]=="ecl"&&/^(amb|blu|brn|gry|grn|hzl|oth)$/.test(c[1]))||
 		    (c[0]=="pid"&&/^[0-9]{9}$/.test(c[1]))||
-		    (c[0]=="cid")))
+		    (c[0]=="cid"))).length
 		    
