@@ -12,3 +12,4 @@ Advent Of Code 2020
 [Dag 9](https://adventofcode.com/2020/day/9)
 [Dag 10](https://adventofcode.com/2020/day/10)
 [Dag 11](https://adventofcode.com/2020/day/11)
+[Dag 12](https://adventofcode.com/2020/day/12)
