@@ -4,8 +4,8 @@ document.body.innerText.trim().split("\n")[1].split(",").filter(v=>v!="x").map(v
 //del 2
 f=1
 t=0
-document.body.innerText.trim().split("\n")[1].split(",").map((v,i)=>v!="x"?[parseInt(v),i+1]:"x").filter(v=>v!="x").forEach(b=>{
+document.body.innerText.trim().split("\n")[1].split(",").map((v,i)=>v!="x"?[parseInt(v),i]:"x").filter(v=>v!="x").forEach(b=>{
     while((t+b[1])%b[0]>0)t+=f
     f*=b[0]
 })
-t+1
+t
