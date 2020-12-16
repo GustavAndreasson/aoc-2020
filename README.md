@@ -16,3 +16,4 @@ Advent Of Code 2020
 [Dag 13](https://adventofcode.com/2020/day/13)
 [Dag 14](https://adventofcode.com/2020/day/14)
 [Dag 15](https://adventofcode.com/2020/day/15)
+[Dag 16](https://adventofcode.com/2020/day/16)
