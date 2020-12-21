@@ -19,3 +19,6 @@ Advent Of Code 2020
 [Dag 16](https://adventofcode.com/2020/day/16)
 [Dag 17](https://adventofcode.com/2020/day/17)
 [Dag 18](https://adventofcode.com/2020/day/18)
+[Dag 19](https://adventofcode.com/2020/day/19)
+[Dag 20](https://adventofcode.com/2020/day/20)
+[Dag 21](https://adventofcode.com/2020/day/21)
