@@ -24,3 +24,4 @@ Advent Of Code 2020
 [Dag 21](https://adventofcode.com/2020/day/21)
 [Dag 23](https://adventofcode.com/2020/day/23)
 [Dag 24](https://adventofcode.com/2020/day/24)
+[Dag 25](https://adventofcode.com/2020/day/25)
